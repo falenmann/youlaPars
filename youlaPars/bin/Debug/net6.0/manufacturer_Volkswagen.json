@@ -1,0 +1,657 @@
+[
+  {
+    "Make": "Volkswagen",
+    "Models": [
+      {
+        "Model": "Amarok",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Arteon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Arteon R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Atlas",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Atlas Cross Sport",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Beetle",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "1200 [4-й рестайлинг]",
+          "1302/1303 [3-й рестайлинг]",
+          "1600i [5-й рестайлинг]",
+          "1200/1300/1500 [2-й рестайлинг]",
+          "1200/1300/1500 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Bora",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Brasilia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Caddy",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "California",
+        "Generations": [
+          "T4",
+          "T6",
+          "1 поколение",
+          "2 поколение",
+          "T5",
+          "T5 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Caravelle",
+        "Generations": [
+          "T3",
+          "T4",
+          "T5",
+          "T5 [рестайлинг]",
+          "T6",
+          "T6.1",
+          "T2"
+        ]
+      },
+      {
+        "Model": "Clasico",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Corrado",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CrossPolo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Derby",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Eos",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "EuroVan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fox",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Gol",
+        "Generations": [
+          "G1",
+          "G1 [рестайлинг]",
+          "G5",
+          "G6",
+          "G4 [рестайлинг]",
+          "G4",
+          "G2",
+          "G3"
+        ]
+      },
+      {
+        "Model": "Golf",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "6 поколение",
+          "7 поколение",
+          "7 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Golf Country",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Golf GTI",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Golf Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Golf R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Golf R32",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Golf Sportsvan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.4 Crozz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.4 X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.6 Crozz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.6 X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ID.Buzz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Iltis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Jetta",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "6 поколение",
+          "6 поколение [рестайлинг]",
+          "7 поколение"
+        ]
+      },
+      {
+        "Model": "K70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Karmann Ghia",
+        "Generations": [
+          "Type 14",
+          "Type 145",
+          "Type 34",
+          "Type 14 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Lamando",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lavida",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Lupo",
+        "Generations": [
+          "6X"
+        ]
+      },
+      {
+        "Model": "Magotan",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Multivan",
+        "Generations": [
+          "T3",
+          "T4",
+          "T5",
+          "T5 [рестайлинг]",
+          "T6",
+          "T6.1 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Parati",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Passat",
+        "Generations": [
+          "B1 [рестайлинг]",
+          "B5",
+          "B6",
+          "B8 [рестайлинг]",
+          "B5.5 [рестайлинг]",
+          "B4",
+          "B7",
+          "B2",
+          "B1",
+          "B8",
+          "B3"
+        ]
+      },
+      {
+        "Model": "Passat CC",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Phaeton",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Phideon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pointer",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Polo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение",
+          "4 поколение [рестайлинг]",
+          "5 поколение",
+          "5 поколение [рестайлинг]",
+          "6 поколение"
+        ]
+      },
+      {
+        "Model": "Polo GTI",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Polo Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Quantum",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Rabbit",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Routan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sagitar",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Santana",
+        "Generations": [
+          "1 поколение",
+          "Vista",
+          "2000",
+          "3000"
+        ]
+      },
+      {
+        "Model": "Saveiro",
+        "Generations": [
+          "1 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Scirocco",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Scirocco R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sharan",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "SpaceFox",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T-Cross",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T-Roc",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T-Roc R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tacqua",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Talagon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Taos",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Taro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tavendor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tayron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tayron X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Teramont",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Teramont X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tharu",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tiguan",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Tiguan Allspace",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tiguan R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tiguan X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Touareg",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Touran",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Touran Cross",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Transporter",
+        "Generations": [
+          "T5",
+          "T5 [рестайлинг]",
+          "T6.1",
+          "T3",
+          "T6",
+          "T4",
+          "Т2 [рестайлинг]",
+          "T1 [рестайлинг]",
+          "Т2",
+          "T1",
+          "T3 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Up",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vento",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Viloran",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-Bora",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

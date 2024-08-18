@@ -1,0 +1,183 @@
+[
+  {
+    "Make": "MG",
+    "Models": [
+      {
+        "Model": "3",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "350",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "4 EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "5 EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "550",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "6 Pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "750",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cyberster",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "HS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MGA",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MGB",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Maestro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Metro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Midget",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Montego",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "One",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pilot",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RV8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T60",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TF",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xpower SV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ZR",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ZS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ZT",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

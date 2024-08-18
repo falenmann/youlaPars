@@ -1,0 +1,189 @@
+[
+  {
+    "Make": "Alfa Romeo",
+    "Models": [
+      {
+        "Model": "145",
+        "Generations": [
+          "930",
+          "930 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "146",
+        "Generations": [
+          "930"
+        ]
+      },
+      {
+        "Model": "147",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "155",
+        "Generations": [
+          "167 [рестайлинг]",
+          "167"
+        ]
+      },
+      {
+        "Model": "156",
+        "Generations": [
+          "932 [рестайлинг]",
+          "932"
+        ]
+      },
+      {
+        "Model": "159",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "164",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "166",
+        "Generations": [
+          "936"
+        ]
+      },
+      {
+        "Model": "33",
+        "Generations": [
+          "907"
+        ]
+      },
+      {
+        "Model": "4C",
+        "Generations": [
+          "907"
+        ]
+      },
+      {
+        "Model": "6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "75",
+        "Generations": [
+          "162B"
+        ]
+      },
+      {
+        "Model": "8C Competizione",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "90",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Alfasud",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Alfetta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Arna",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Brera",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GT",
+        "Generations": [
+          "937"
+        ]
+      },
+      {
+        "Model": "GTV",
+        "Generations": [
+          "916"
+        ]
+      },
+      {
+        "Model": "Giulia",
+        "Generations": [
+          "105",
+          "952"
+        ]
+      },
+      {
+        "Model": "Giulietta",
+        "Generations": [
+          "750/101",
+          "116",
+          "940",
+          "116 [рестайлинг]",
+          "116 [2-й рестайлинг]",
+          "750/101 [рестайлинг]",
+          "750/101 [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "MiTo",
+        "Generations": [
+          "955",
+          "955 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Montreal",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S.Z./R.Z.",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Spider",
+        "Generations": [
+          "916",
+          "939",
+          "115"
+        ]
+      },
+      {
+        "Model": "Stelvio",
+        "Generations": [
+          "949"
+        ]
+      },
+      {
+        "Model": "Tonale",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

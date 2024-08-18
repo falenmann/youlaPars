@@ -1,0 +1,92 @@
+[
+  {
+    "Make": "Lotus",
+    "Models": [
+      {
+        "Model": "7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Elan",
+        "Generations": [
+          "2 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Eletre",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Elise",
+        "Generations": [
+          "2 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Elite",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Emeya",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Emira",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Esprit",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Europa S",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Evora",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Excel",
+        "Generations": [
+          "1 поколение",
+          "X2",
+          "X3",
+          "X3 [рестайлинг]",
+          "X2 [рестайлинг]",
+          "X1"
+        ]
+      },
+      {
+        "Model": "Exige",
+        "Generations": [
+          "Serie 2 [рестайлинг]",
+          "Serie 2"
+        ]
+      }
+    ]
+  }
+]

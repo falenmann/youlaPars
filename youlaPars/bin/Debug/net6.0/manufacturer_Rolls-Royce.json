@@ -1,0 +1,115 @@
+[
+  {
+    "Make": "Rolls-Royce",
+    "Models": [
+      {
+        "Model": "Camargue",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Corniche",
+        "Generations": [
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Cullinan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dawn",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Flying Spur",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ghost",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Park Ward",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Phantom",
+        "Generations": [
+          "7 поколение [рестайлинг]",
+          "8 поколение",
+          "7 поколение [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Silver Cloud",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Dawn",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Seraph",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Shadow",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Spirit",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Spur",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Silver Wraith",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Spectre",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Wraith",
+        "Generations": [
+          "2 поколение"
+        ]
+      }
+    ]
+  }
+]

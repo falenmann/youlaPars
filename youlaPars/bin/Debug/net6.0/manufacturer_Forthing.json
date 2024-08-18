@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Forthing",
+    "Models": [
+      {
+        "Model": "M7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T5 EVO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Yacht",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

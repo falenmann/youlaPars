@@ -1,0 +1,114 @@
+[
+  {
+    "Make": "FAW",
+    "Models": [
+      {
+        "Model": "6371",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune B70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune M9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune NAT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune T55",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune T77",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bestune T99",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Besturn B50",
+        "Generations": [
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Besturn B70",
+        "Generations": [
+          "1 поколение [3-й рестайлинг]",
+          "1 поколение [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Besturn X40",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Besturn X80",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "D60",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Jinn",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Oley",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V5",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Vita",
+        "Generations": [
+          "2 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Luxgen",
+    "Models": [
+      {
+        "Model": "5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "7 MPV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "7 SUV",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

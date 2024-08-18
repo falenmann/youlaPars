@@ -1,0 +1,95 @@
+[
+  {
+    "Make": "Dacia",
+    "Models": [
+      {
+        "Model": "1100",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "1300",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "1310",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "1320",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "1325 Liberta",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Dokker",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Duster",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lodgy",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Logan",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Nova",
+        "Generations": [
+          "1 поколение",
+          "SupeRNova"
+        ]
+      },
+      {
+        "Model": "Pick-Up",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sandero",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Solenza",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Neta",
+    "Models": [
+      {
+        "Model": "GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "U",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "Make": "Saturn",
+    "Models": [
+      {
+        "Model": "Aura",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ION",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "L-Series",
+        "Generations": [
+          "LS/LW"
+        ]
+      },
+      {
+        "Model": "Outlook",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Relay",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S-Series",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Sky",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "VUE",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      }
+    ]
+  }
+]

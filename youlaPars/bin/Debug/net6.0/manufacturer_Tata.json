@@ -1,0 +1,60 @@
+[
+  {
+    "Make": "Tata",
+    "Models": [
+      {
+        "Model": "Estate",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Indica",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Indigo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Safari",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sierra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sumo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Telcoline",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Xenon",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

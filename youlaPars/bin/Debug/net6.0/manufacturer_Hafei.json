@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Hafei",
+    "Models": [
+      {
+        "Model": "Brio (Lobo)",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Princip",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Saibao",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sigma",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Simbo",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "LiXiang",
+    "Models": [
+      {
+        "Model": "L7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "L8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "L9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mega",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "One",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

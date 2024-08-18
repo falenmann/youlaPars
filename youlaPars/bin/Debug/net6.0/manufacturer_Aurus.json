@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Aurus",
+    "Models": [
+      {
+        "Model": "Komendant",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Senat",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

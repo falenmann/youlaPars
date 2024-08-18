@@ -1,0 +1,79 @@
+[
+  {
+    "Make": "BAIC",
+    "Models": [
+      {
+        "Model": "BJ30",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "BJ40",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "BJ60",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "BJ80",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "BJ90",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "EU5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kenbo 600",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ruixiang X5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "U5 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X35",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X55",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X7",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

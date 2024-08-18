@@ -1,0 +1,13 @@
+[
+  {
+    "Make": "Metrocab",
+    "Models": [
+      {
+        "Model": "Taxi",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

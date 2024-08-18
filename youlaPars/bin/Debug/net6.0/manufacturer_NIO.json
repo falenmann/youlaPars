@@ -1,0 +1,49 @@
+[
+  {
+    "Make": "NIO",
+    "Models": [
+      {
+        "Model": "EC6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "EC7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ES6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ES7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ES8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ET5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ET7",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

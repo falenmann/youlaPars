@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Skywell",
+    "Models": [
+      {
+        "Model": "ET5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "HT-i",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

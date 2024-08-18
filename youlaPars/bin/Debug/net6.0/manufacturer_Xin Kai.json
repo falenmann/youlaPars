@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Xin Kai",
+    "Models": [
+      {
+        "Model": "PICKUP X3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SR-V X3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SUV X3",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

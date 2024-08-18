@@ -1,0 +1,548 @@
+[
+  {
+    "Make": "Hyundai",
+    "Models": [
+      {
+        "Model": "Accent",
+        "Generations": [
+          "RB",
+          "X3",
+          "LC",
+          "MC",
+          "X3 [рестайлинг]",
+          "LC [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Atos",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Avante",
+        "Generations": [
+          "HD",
+          "J2",
+          "XD",
+          "XD [рестайлинг]",
+          "MD",
+          "J3 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Azera",
+        "Generations": [
+          "TG",
+          "TG [рестайлинг]",
+          "HG"
+        ]
+      },
+      {
+        "Model": "Bayon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Casper",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Celesta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Centennial",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Click",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Coupe",
+        "Generations": [
+          "GK",
+          "GK F/L [рестайлинг]",
+          "GK F/L2 [2-й рестайлинг]",
+          "RC",
+          "RD [рестайлинг]",
+          "1 поколение",
+          "89/8B",
+          "81/85"
+        ]
+      },
+      {
+        "Model": "Creta",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Custo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dynasty",
+        "Generations": [
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Elantra",
+        "Generations": [
+          "AD [рестайлинг]",
+          "CN7",
+          "J2",
+          "MD",
+          "XD",
+          "HD",
+          "J1",
+          "MD [рестайлинг]",
+          "J1 [рестайлинг]",
+          "AD",
+          "XD [рестайлинг]",
+          "J2 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Encino",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Entourage",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Eon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Equus",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Excel",
+        "Generations": [
+          "X1",
+          "X3",
+          "X3 [рестайлинг]",
+          "X2",
+          "X2 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Galloper",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Genesis",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Getz",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Grace",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Grand Santa Fe",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Grandeur",
+        "Generations": [
+          "HG",
+          "XG",
+          "XG [рестайлинг]",
+          "TG",
+          "TG [рестайлинг]",
+          "L",
+          "LX"
+        ]
+      },
+      {
+        "Model": "H-1 (Starex)",
+        "Generations": [
+          "Grand Starex [рестайлинг]",
+          "Grand Starex",
+          "Starex",
+          "Starex [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "H-100",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "H200",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "IONIQ",
+        "Generations": [
+          "AE",
+          "AE [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "IONIQ 5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "IONIQ 6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kona",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lafesta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lantra",
+        "Generations": [
+          "J1",
+          "J1 [рестайлинг]",
+          "J2 [рестайлинг]",
+          "J2"
+        ]
+      },
+      {
+        "Model": "Lavita",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Marcia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Matrix",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Maxcruz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mufasa",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Nexo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Palisade",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pony",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "S-Coupe",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Santa Cruz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Santa Fe",
+        "Generations": [
+          "TM",
+          "TM [рестайлинг]",
+          "CM [рестайлинг]",
+          "DM",
+          "SM [рестайлинг]",
+          "CM",
+          "DM [рестайлинг]",
+          "SM"
+        ]
+      },
+      {
+        "Model": "Santamo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Solaris",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Sonata",
+        "Generations": [
+          "8 поколение",
+          "Y",
+          "Y3",
+          "EF New [рестайлинг]",
+          "YF",
+          "Y2",
+          "Y2 [рестайлинг]",
+          "EF",
+          "Y3 [рестайлинг]",
+          "NF",
+          "LF",
+          "NF [рестайлинг]",
+          "LF [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Staria",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Stellar",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Terracan",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Tiburon",
+        "Generations": [
+          "GK F/L [рестайлинг]",
+          "GK F/L2 [2-й рестайлинг]",
+          "GK",
+          "RD [рестайлинг]",
+          "RC"
+        ]
+      },
+      {
+        "Model": "Trajet",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Tucson",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Tuscani",
+        "Generations": [
+          "GK",
+          "GK F/L [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Veloster",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Venue",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Veracruz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Verna",
+        "Generations": [
+          "LC",
+          "LC [рестайлинг]",
+          "MC",
+          "RB",
+          "MC [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "XG",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "i10",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "i20",
+        "Generations": [
+          "IB",
+          "PB",
+          "PB [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "i30",
+        "Generations": [
+          "FD",
+          "FD [рестайлинг]",
+          "GD [рестайлинг]",
+          "PD",
+          "GD"
+        ]
+      },
+      {
+        "Model": "i30 N",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i40",
+        "Generations": [
+          "VF [рестайлинг]",
+          "VF"
+        ]
+      },
+      {
+        "Model": "i45",
+        "Generations": [
+          "YF"
+        ]
+      },
+      {
+        "Model": "ix20",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "ix25",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ix35",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "ix55",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

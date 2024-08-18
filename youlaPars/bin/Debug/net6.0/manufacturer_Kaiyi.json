@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Kaiyi",
+    "Models": [
+      {
+        "Model": "E5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X3 pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X7 Kunlun",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

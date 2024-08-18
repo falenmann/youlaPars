@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Doninvest",
+    "Models": [
+      {
+        "Model": "Assol",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kondor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Orion",
+        "Generations": [
+          "J100"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Make": "Hummer",
+    "Models": [
+      {
+        "Model": "H1",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H2",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H3",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Make": "Jeep",
+    "Models": [
+      {
+        "Model": "Avenger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CJ",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cherokee",
+        "Generations": [
+          "KJ",
+          "KL [рестайлинг]",
+          "KK",
+          "XJ",
+          "KL"
+        ]
+      },
+      {
+        "Model": "Comanche",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Commander",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Compass",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Gladiator",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Grand Cherokee",
+        "Generations": [
+          "WK2 [рестайлинг]",
+          "WJ",
+          "ZJ",
+          "WK",
+          "WK2"
+        ]
+      },
+      {
+        "Model": "Liberty",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "M12"
+        ]
+      },
+      {
+        "Model": "Patriot",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Renegade",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Wagoneer",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Wrangler",
+        "Generations": [
+          "JL",
+          "JK [рестайлинг]",
+          "YJ",
+          "TJ",
+          "JK"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "SWM",
+    "Models": [
+      {
+        "Model": "G01",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G01F",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G05 Pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

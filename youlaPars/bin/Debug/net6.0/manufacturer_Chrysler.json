@@ -1,0 +1,201 @@
+[
+  {
+    "Make": "Chrysler",
+    "Models": [
+      {
+        "Model": "200",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "300C",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "300M",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aspen",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cirrus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Concorde",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Crossfire",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Daytona",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dynasty",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fifth Avenue",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Grand Voyager",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Imperial",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Intrepid",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "LHS",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "LeBaron",
+        "Generations": [
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Neon",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "New Yorker",
+        "Generations": [
+          "10 поколение",
+          "11 поколение"
+        ]
+      },
+      {
+        "Model": "Newport",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "PT Cruiser",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Pacifica",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Prowler",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Saratoga",
+        "Generations": [
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Sebring",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Stratus",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "TC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Town and Country",
+        "Generations": [
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Vision",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Voyager",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "5 поколение [рестайлинг]",
+          "3 поколение",
+          "2 поколение"
+        ]
+      }
+    ]
+  }
+]

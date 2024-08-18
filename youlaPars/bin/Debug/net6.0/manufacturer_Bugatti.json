@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Bugatti",
+    "Models": [
+      {
+        "Model": "Chiron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "EB 110",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Veyron",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

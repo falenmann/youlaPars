@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Denza",
+    "Models": [
+      {
+        "Model": "D9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "N7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

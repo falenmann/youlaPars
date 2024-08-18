@@ -1,0 +1,32 @@
+[
+  {
+    "Make": "Morgan",
+    "Models": [
+      {
+        "Model": "4/4",
+        "Generations": [
+          "1800"
+        ]
+      },
+      {
+        "Model": "Aero 8",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Plus 4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Plus 8",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "Make": "Rover",
+    "Models": [
+      {
+        "Model": "100",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "200 Series",
+        "Generations": [
+          "R8",
+          "R3"
+        ]
+      },
+      {
+        "Model": "25",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "400 Series",
+        "Generations": [
+          "R8",
+          "HH-R"
+        ]
+      },
+      {
+        "Model": "45",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "600 Series",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "75",
+        "Generations": [
+          "1 поколение",
+          "162B"
+        ]
+      },
+      {
+        "Model": "800 Series",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Maestro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Metro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mini MK",
+        "Generations": [
+          "Mk VI"
+        ]
+      },
+      {
+        "Model": "Montego",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SD1",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Streetwise",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "Make": "Baojun",
+    "Models": [
+      {
+        "Model": "360",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "E100",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "E200",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "E300",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RC-5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RS-5",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

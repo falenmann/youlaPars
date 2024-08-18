@@ -1,0 +1,45 @@
+[
+  {
+    "Make": "Tesla",
+    "Models": [
+      {
+        "Model": "Cybertruck",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Model 3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Model S",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Model X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Model Y",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Roadster",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      }
+    ]
+  }
+]

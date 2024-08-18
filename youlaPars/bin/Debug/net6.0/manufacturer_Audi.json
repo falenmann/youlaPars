@@ -1,0 +1,478 @@
+[
+  {
+    "Make": "Audi",
+    "Models": [
+      {
+        "Model": "100",
+        "Generations": [
+          "4A/C4",
+          "1 поколение",
+          "С2",
+          "С3 [рестайлинг]",
+          "С1 [рестайлинг]",
+          "С1",
+          "С2 [рестайлинг]",
+          "С3"
+        ]
+      },
+      {
+        "Model": "200",
+        "Generations": [
+          "44/44Q"
+        ]
+      },
+      {
+        "Model": "80",
+        "Generations": [
+          "8C/B4",
+          "B1",
+          "B2",
+          "B2 [рестайлинг]",
+          "B1 [рестайлинг]",
+          "8A/B3"
+        ]
+      },
+      {
+        "Model": "90",
+        "Generations": [
+          "89/B3"
+        ]
+      },
+      {
+        "Model": "A1",
+        "Generations": [
+          "2 поколение",
+          "8X",
+          "8X [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "A2",
+        "Generations": [
+          "8Z"
+        ]
+      },
+      {
+        "Model": "A3",
+        "Generations": [
+          "8P/8PA [рестайлинг]",
+          "8V [рестайлинг]",
+          "8L",
+          "8P/8PA [2-й рестайлинг]",
+          "8L [рестайлинг]",
+          "8P",
+          "8V"
+        ]
+      },
+      {
+        "Model": "A4",
+        "Generations": [
+          "B7",
+          "B8/8K [рестайлинг]",
+          "B9",
+          "B9 [рестайлинг]",
+          "B8/8K",
+          "B6",
+          "B5",
+          "B5 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "A4 Allroad Quattro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "A5",
+        "Generations": [
+          "2 поколение",
+          "8T",
+          "8T [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "A6",
+        "Generations": [
+          "4B/C5",
+          "C8",
+          "4F/C6",
+          "4F/C6 [рестайлинг]",
+          "4G/C7 [рестайлинг]",
+          "4B/C5 [рестайлинг]",
+          "4G/C7",
+          "A4/C4"
+        ]
+      },
+      {
+        "Model": "A6 Allroad Quattro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "A7",
+        "Generations": [
+          "2 поколение",
+          "4G",
+          "4G [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "A8",
+        "Generations": [
+          "D2/4D [рестайлинг]",
+          "D5",
+          "D3/4E [рестайлинг]",
+          "D3/4E [2-й рестайлинг]",
+          "D4/4H",
+          "D4/4H [рестайлинг]",
+          "D3/4E",
+          "D2/4D"
+        ]
+      },
+      {
+        "Model": "Cabriolet",
+        "Generations": [
+          "8G7/B4"
+        ]
+      },
+      {
+        "Model": "Coupe",
+        "Generations": [
+          "89/8B",
+          "81/85"
+        ]
+      },
+      {
+        "Model": "Q2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q2L e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q3",
+        "Generations": [
+          "2 поколение",
+          "8U [рестайлинг]",
+          "8U"
+        ]
+      },
+      {
+        "Model": "Q3 Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q4 e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q5",
+        "Generations": [
+          "2 поколение",
+          "8R [рестайлинг]",
+          "8R"
+        ]
+      },
+      {
+        "Model": "Q5 Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q5 e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q7",
+        "Generations": [
+          "4M",
+          "4M [рестайлинг]",
+          "4L [рестайлинг]",
+          "4L"
+        ]
+      },
+      {
+        "Model": "Q8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q8 Sportback e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Q8 e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Quattro",
+        "Generations": [
+          "85"
+        ]
+      },
+      {
+        "Model": "R8",
+        "Generations": [
+          "85"
+        ]
+      },
+      {
+        "Model": "RS Q3",
+        "Generations": [
+          "8U",
+          "8U [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "RS Q3 Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RS Q8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RS2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RS3",
+        "Generations": [
+          "8VA [рестайлинг]",
+          "8PA",
+          "8VA"
+        ]
+      },
+      {
+        "Model": "RS4",
+        "Generations": [
+          "B5",
+          "B7",
+          "B8",
+          "B9"
+        ]
+      },
+      {
+        "Model": "RS5",
+        "Generations": [
+          "8T",
+          "8T [рестайлинг]",
+          "F5"
+        ]
+      },
+      {
+        "Model": "RS6",
+        "Generations": [
+          "C5",
+          "C7",
+          "C7 [рестайлинг]",
+          "C6"
+        ]
+      },
+      {
+        "Model": "RS7",
+        "Generations": [
+          "4G",
+          "4G [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "S1",
+        "Generations": [
+          "8X",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S2",
+        "Generations": [
+          "8C/B4",
+          "89/8B"
+        ]
+      },
+      {
+        "Model": "S3",
+        "Generations": [
+          "8L",
+          "8L [рестайлинг]",
+          "8P",
+          "8P/8PA [рестайлинг]",
+          "8V"
+        ]
+      },
+      {
+        "Model": "S4",
+        "Generations": [
+          "B8/8K",
+          "B9",
+          "B9 [рестайлинг]",
+          "B8/8K [рестайлинг]",
+          "B5/8D",
+          "B6/8H",
+          "B7/8E",
+          "4A/C4"
+        ]
+      },
+      {
+        "Model": "S5",
+        "Generations": [
+          "2 поколение",
+          "8T [рестайлинг]",
+          "8T"
+        ]
+      },
+      {
+        "Model": "S6",
+        "Generations": [
+          "C4",
+          "C6",
+          "C7",
+          "C8",
+          "C7 [рестайлинг]",
+          "C5",
+          "C6 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "S7",
+        "Generations": [
+          "2 поколение",
+          "4G",
+          "4G [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "S8",
+        "Generations": [
+          "D4 [рестайлинг]",
+          "D4",
+          "D2 [рестайлинг]",
+          "D3 [рестайлинг]",
+          "D3",
+          "D2"
+        ]
+      },
+      {
+        "Model": "SQ2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SQ5",
+        "Generations": [
+          "2 поколение",
+          "8R"
+        ]
+      },
+      {
+        "Model": "SQ5 Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SQ7",
+        "Generations": [
+          "4M"
+        ]
+      },
+      {
+        "Model": "SQ8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TT",
+        "Generations": [
+          "8S [рестайлинг]",
+          "8S",
+          "8J",
+          "8N [рестайлинг]",
+          "8J [рестайлинг]",
+          "8N"
+        ]
+      },
+      {
+        "Model": "TT RS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TTS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-tron",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-tron GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-tron S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-tron S Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "e-tron Sportback",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

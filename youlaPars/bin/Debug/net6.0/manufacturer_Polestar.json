@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Polestar",
+    "Models": [
+      {
+        "Model": "1",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "4",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

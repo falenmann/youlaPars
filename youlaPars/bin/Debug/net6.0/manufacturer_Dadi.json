@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Dadi",
+    "Models": [
+      {
+        "Model": "City Leading",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Shuttle",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Smoothing",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

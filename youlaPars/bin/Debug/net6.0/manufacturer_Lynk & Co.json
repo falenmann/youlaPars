@@ -1,0 +1,49 @@
+[
+  {
+    "Make": "Lynk & Co",
+    "Models": [
+      {
+        "Model": "01",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "02",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "03",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "05",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "06",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "08",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "09",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Make": "EXEED",
+    "Models": [
+      {
+        "Model": "ES",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "LX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TXL",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "VX",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

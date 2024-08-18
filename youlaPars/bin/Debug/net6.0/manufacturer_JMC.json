@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "JMC",
+    "Models": [
+      {
+        "Model": "Baodian",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dadao",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vigus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vigus Work",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

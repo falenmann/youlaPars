@@ -1,0 +1,78 @@
+[
+  {
+    "Make": "Lifan",
+    "Models": [
+      {
+        "Model": "Breez",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cebrium",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Celliya",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Murman",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MyWay",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Smily",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Solano",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "X50",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X60",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "X70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X80",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Asia",
+    "Models": [
+      {
+        "Model": "Rocsta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Topic",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "Make": "Plymouth",
+    "Models": [
+      {
+        "Model": "Acclaim",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Barracuda",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Breeze",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fury",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Grand Voyager",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Laser",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Neon",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Prowler",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Reliant",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sundance",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Voyager",
+        "Generations": [
+          "2 поколение",
+          "3 поколение"
+        ]
+      }
+    ]
+  }
+]

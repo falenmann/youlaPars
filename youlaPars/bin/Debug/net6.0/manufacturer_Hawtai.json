@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Hawtai",
+    "Models": [
+      {
+        "Model": "Boliger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Laville",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

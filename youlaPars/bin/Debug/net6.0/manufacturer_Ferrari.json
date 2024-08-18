@@ -1,0 +1,232 @@
+[
+  {
+    "Make": "Ferrari",
+    "Models": [
+      {
+        "Model": "208",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "250",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "288 GTO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "296 GTB",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "308",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "328",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "330",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "348",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "360",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "365",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "400",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "456",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "458",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "488 GTB",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "550",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "575",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "599",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "612 Scaglietti",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "812 Superfast",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "California",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Enzo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F12berlinetta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F355",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F40",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F430",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F50",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F8 Spider",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F8 Tributo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "FF",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GTC4Lusso",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "LaFerrari",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mondial",
+        "Generations": [
+          "T"
+        ]
+      },
+      {
+        "Model": "Portofino",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Purosangue",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Roma",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SF90 Stradale",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Testarossa",
+        "Generations": [
+          "1 поколение",
+          "512 TR",
+          "F512 M"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "Make": "ТагАЗ",
+    "Models": [
+      {
+        "Model": "Aquila",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "C10",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "C190",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "C30",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Road Partner",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tager",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vega",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      }
+    ]
+  }
+]

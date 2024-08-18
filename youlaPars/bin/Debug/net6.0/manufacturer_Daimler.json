@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Daimler",
+    "Models": [
+      {
+        "Model": "Super Eight",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V8",
+        "Generations": [
+          "X308"
+        ]
+      }
+    ]
+  }
+]

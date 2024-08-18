@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Tank",
+    "Models": [
+      {
+        "Model": "300",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "400",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "500",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Venucia",
+    "Models": [
+      {
+        "Model": "Big V DD-i",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "D60 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V-Online",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "VX6",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

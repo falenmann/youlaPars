@@ -1,0 +1,164 @@
+[
+  {
+    "Make": "Isuzu",
+    "Models": [
+      {
+        "Model": "Amigo",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Ascender",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aska",
+        "Generations": [
+          "GS-5"
+        ]
+      },
+      {
+        "Model": "Axiom",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bighorn",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "D-Max",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Fargo",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Filly",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Gemini",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Hombre",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Impulse",
+        "Generations": [
+          "Coupe"
+        ]
+      },
+      {
+        "Model": "KB",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MU",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "MU-7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MU-X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Midi",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Oasis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Piazza",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Rodeo",
+        "Generations": [
+          "1 поколение",
+          "Rodeo",
+          "6 Rodeo",
+          "4 Rodeo"
+        ]
+      },
+      {
+        "Model": "Stylus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T17",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Trooper",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "VehiCross",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Wizard",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

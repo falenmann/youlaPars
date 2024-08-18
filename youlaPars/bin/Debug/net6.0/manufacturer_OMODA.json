@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "OMODA",
+    "Models": [
+      {
+        "Model": "C5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S5 GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

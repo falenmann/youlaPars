@@ -1,0 +1,129 @@
+[
+  {
+    "Make": "Lincoln",
+    "Models": [
+      {
+        "Model": "Aviator",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Blackwood",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Continental",
+        "Generations": [
+          "8 поколение",
+          "9 поколение"
+        ]
+      },
+      {
+        "Model": "Corsair",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "LS",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "3 поколение",
+          "2 поколение",
+          "4 поколение",
+          "3 поколение [рестайлинг]",
+          "5 поколение",
+          "4 поколение [рестайлинг]",
+          "4 поколение [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "MKC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MKS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MKT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MKX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MKZ",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mark LT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mark Series",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "6 поколение",
+          "7 поколение",
+          "8 поколение"
+        ]
+      },
+      {
+        "Model": "Nautilus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Navigator",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Town Car",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Versailles",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Zephyr",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkgUNdtIna+k4EQhzC/SNxSyrdfeD7f+GgxYR8IxTUFvYcK0uy+Is6aPT9bmV1m/G30u4vNPsn95XESvIPAQRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadim\\Documents\\VKR\\PROGRAMMA\\youlaPars\\youlaPars\\youlaPars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\vadim\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

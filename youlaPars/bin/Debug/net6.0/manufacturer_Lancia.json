@@ -1,0 +1,153 @@
+[
+  {
+    "Make": "Lancia",
+    "Models": [
+      {
+        "Model": "A112",
+        "Generations": [
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Beta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dedra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Delta",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Flaminia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Flavia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fulvia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Gamma",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Hyena",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kappa",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lybra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Montecarlo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Musa",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Phedra",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Prisma",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Stratos HF",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Thema",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Thesis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Trevi",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Voyager",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Y10",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ypsilon",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Zeta",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Make": "ЗАЗ",
+    "Models": [
+      {
+        "Model": "1102",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "1103",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "1105",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "965",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "966",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "968",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Chance",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Forza",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lanos",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sens",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vida",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

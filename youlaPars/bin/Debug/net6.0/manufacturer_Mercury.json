@@ -1,0 +1,117 @@
+[
+  {
+    "Make": "Mercury",
+    "Models": [
+      {
+        "Model": "Capri",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Comet",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cougar",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Eight",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Grand Marquis",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Marauder",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mariner",
+        "Generations": [
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Marquis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Milan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Montego",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Monterey",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mountaineer",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Mystique",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sable",
+        "Generations": [
+          "2 поколение",
+          "3 поколение",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Topaz",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Tracer",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Villager",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      }
+    ]
+  }
+]

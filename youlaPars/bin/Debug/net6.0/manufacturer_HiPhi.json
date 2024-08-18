@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "HiPhi",
+    "Models": [
+      {
+        "Model": "X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Y",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Z",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

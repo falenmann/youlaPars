@@ -1,0 +1,49 @@
+[
+  {
+    "Make": "Roewe",
+    "Models": [
+      {
+        "Model": "Marvel R",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX5 Max",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RX9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "iMAX 8",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

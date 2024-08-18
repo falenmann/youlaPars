@@ -1,0 +1,103 @@
+[
+  {
+    "Make": "Aston Martin",
+    "Models": [
+      {
+        "Model": "Cygnet",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "DB11",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "DB5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "DB7",
+        "Generations": [
+          "Volante",
+          "GT"
+        ]
+      },
+      {
+        "Model": "DB9",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "DBS",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "DBX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lagonda",
+        "Generations": [
+          "Series 2"
+        ]
+      },
+      {
+        "Model": "One-77",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Rapide",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Vanquish",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Vantage",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [2-й рестайлинг]",
+          "3 поколение [рестайлинг]",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Virage",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Zagato",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

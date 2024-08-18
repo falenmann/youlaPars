@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Tatra",
+    "Models": [
+      {
+        "Model": "T600",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T603",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T613",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T700",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T87",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

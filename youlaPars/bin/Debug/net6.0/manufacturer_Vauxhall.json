@@ -1,0 +1,43 @@
+[
+  {
+    "Make": "Vauxhall",
+    "Models": [
+      {
+        "Model": "Astra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Carlton",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Royale",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vectra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Victor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Viva",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

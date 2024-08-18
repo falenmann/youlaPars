@@ -1,0 +1,122 @@
+[
+  {
+    "Make": "Acura",
+    "Models": [
+      {
+        "Model": "CL",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "CSX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "EL",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "ILX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Integra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Legend",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MDX",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "NSX",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "RDX",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "RL",
+        "Generations": [
+          "KA9",
+          "KB1",
+          "KB2"
+        ]
+      },
+      {
+        "Model": "RSX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SLX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TL",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "TLX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "TSX",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Vigor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "ZDX",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

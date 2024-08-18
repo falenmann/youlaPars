@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Jetta",
+    "Models": [
+      {
+        "Model": "VA3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "VS5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "VS7",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

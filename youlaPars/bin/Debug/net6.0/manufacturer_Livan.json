@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Livan",
+    "Models": [
+      {
+        "Model": "S6 pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X3 pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X6 pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

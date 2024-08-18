@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Koenigsegg",
+    "Models": [
+      {
+        "Model": "Agera",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CC8S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CCR",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CCX",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

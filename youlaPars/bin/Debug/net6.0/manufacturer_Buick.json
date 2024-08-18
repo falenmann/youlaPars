@@ -1,0 +1,151 @@
+[
+  {
+    "Make": "Buick",
+    "Models": [
+      {
+        "Model": "Cascada",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Century",
+        "Generations": [
+          "5 поколение",
+          "6 поколение"
+        ]
+      },
+      {
+        "Model": "Enclave",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Encore",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Encore GX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Envision",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Excelle",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "GL8",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "LaCrosse",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "LeSabre",
+        "Generations": [
+          "6 поколение",
+          "8 поколение",
+          "7 поколение"
+        ]
+      },
+      {
+        "Model": "Limited",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lucerne",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Park Avenue",
+        "Generations": [
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Rainier",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Reatta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Regal",
+        "Generations": [
+          "3 поколение",
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Rendezvous",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Riviera",
+        "Generations": [
+          "8 поколение"
+        ]
+      },
+      {
+        "Model": "Roadmaster",
+        "Generations": [
+          "8 поколение"
+        ]
+      },
+      {
+        "Model": "Skylark",
+        "Generations": [
+          "7 поколение"
+        ]
+      },
+      {
+        "Model": "Special",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Terraza",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Velite 6",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

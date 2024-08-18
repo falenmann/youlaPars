@@ -1,0 +1,80 @@
+[
+  {
+    "Make": "Oldsmobile",
+    "Models": [
+      {
+        "Model": "88",
+        "Generations": [
+          "10 поколение"
+        ]
+      },
+      {
+        "Model": "98",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Achieva",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Alero",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aurora",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Bravada",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Cutlass",
+        "Generations": [
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Cutlass Ciera",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Intrigue",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Silhouette",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Toronado",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

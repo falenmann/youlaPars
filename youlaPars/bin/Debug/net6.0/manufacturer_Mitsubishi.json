@@ -1,0 +1,604 @@
+[
+  {
+    "Make": "Mitsubishi",
+    "Models": [
+      {
+        "Model": "3000 GT",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "ASX",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [3-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Airtrek",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aspire",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Attrage",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Carisma",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Challenger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Chariot",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Colt",
+        "Generations": [
+          "Z30 [рестайлинг]",
+          "C10",
+          "A150 [рестайлинг]",
+          "C50",
+          "A150",
+          "Z30",
+          "CJO",
+          "CAO"
+        ]
+      },
+      {
+        "Model": "Cordia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Debonair",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Delica",
+        "Generations": [
+          "3 поколение",
+          "4 поколение",
+          "4 поколение [рестайлинг]",
+          "5 поколение",
+          "D:3",
+          "D:5 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Delica D:2",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Delica D:3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Delica D:5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Diamante",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Dignity",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dingo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Dion",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Eclipse",
+        "Generations": [
+          "4G [рестайлинг]",
+          "3G",
+          "2G [рестайлинг]",
+          "2G",
+          "1G",
+          "4G",
+          "1G [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Eclipse Cross",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Emeraude",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Endeavor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Eterna",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Expo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "FTO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GTO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Galant",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "6 поколение",
+          "7 поколение",
+          "8 поколение",
+          "8 поколение [рестайлинг]",
+          "9 поколение",
+          "9 поколение [рестайлинг]",
+          "9 поколение [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Galant Fortis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Grandis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Jeep",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "L200",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "4 поколение [рестайлинг]",
+          "5 поколение",
+          "5 поколение [рестайлинг]",
+          "4 поколение [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "L300",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "L400",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lancer",
+        "Generations": [
+          "VII",
+          "VIII",
+          "X [2-й рестайлинг]",
+          "Y12",
+          "X",
+          "A70 [2-й рестайлинг]",
+          "VI [2-й рестайлинг]",
+          "A70 [рестайлинг]",
+          "VI",
+          "IX [рестайлинг]",
+          "IX",
+          "EX",
+          "VI [рестайлинг]",
+          "X [рестайлинг]",
+          "EX [рестайлинг]",
+          "VIII [рестайлинг]",
+          "A70"
+        ]
+      },
+      {
+        "Model": "Lancer Evolution",
+        "Generations": [
+          "IX",
+          "VI",
+          "X",
+          "VIII",
+          "V",
+          "VII",
+          "II",
+          "IV",
+          "I",
+          "III"
+        ]
+      },
+      {
+        "Model": "Legnum",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Libero",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Minica",
+        "Generations": [
+          "2 поколение",
+          "4 поколение",
+          "4 поколение [рестайлинг]",
+          "5 поколение",
+          "6 поколение",
+          "7 поколение",
+          "8 поколение",
+          "7 поколение [рестайлинг]",
+          "LA20",
+          "LA23 [2-й рестайлинг]",
+          "F4 [рестайлинг]",
+          "LA21 [рестайлинг]",
+          "F4"
+        ]
+      },
+      {
+        "Model": "Minicab",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Minicab MiEV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mirage",
+        "Generations": [
+          "5 поколение",
+          "6 поколение"
+        ]
+      },
+      {
+        "Model": "Montero",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение [рестайлинг]",
+          "4 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Montero Sport",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Montero iO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Nimbus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Outlander",
+        "Generations": [
+          "1 поколение",
+          "3 поколение",
+          "3 поколение [2-й рестайлинг]",
+          "3 поколение [3-й рестайлинг]",
+          "3 поколение [рестайлинг]",
+          "XL [рестайлинг]",
+          "XL"
+        ]
+      },
+      {
+        "Model": "Outlander Sport",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pajero",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение",
+          "4 поколение [2-й рестайлинг]",
+          "4 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Pajero Junior",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pajero Mini",
+        "Generations": [
+          "H51/56A",
+          "H53/58A [рестайлинг]",
+          "H53/58A",
+          "H53/58A [2-й рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Pajero Pinin",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Pajero Sport",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Pajero iO",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Proudia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "RVR",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Raider",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sapporo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sigma",
+        "Generations": [
+          "4 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Space Gear",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Space Runner",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Space Star",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Space Wagon",
+        "Generations": [
+          "Typ N50",
+          "Typ D00",
+          "Typ N30/N40"
+        ]
+      },
+      {
+        "Model": "Starion",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Strada",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Toppo",
+        "Generations": [
+          "1 поколение",
+          "BJ"
+        ]
+      },
+      {
+        "Model": "Town BOX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tredia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xforce",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xpander",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xpander Cross",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Zinger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "eK Custom",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "eK Space",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "eK Sport",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "eK Wagon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "eK Wagon X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-MiEV",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

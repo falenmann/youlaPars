@@ -1,0 +1,27 @@
+[
+  {
+    "Make": "Vortex",
+    "Models": [
+      {
+        "Model": "Corda",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Estina",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Tingo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      }
+    ]
+  }
+]

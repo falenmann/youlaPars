@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Austin (AMC)",
+    "Models": [
+      {
+        "Model": "Allegro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Maestro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Metro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mini",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Montego",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

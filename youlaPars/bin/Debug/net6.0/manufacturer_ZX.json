@@ -1,0 +1,28 @@
+[
+  {
+    "Make": "ZX",
+    "Models": [
+      {
+        "Model": "Admiral",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "Model": "GrandTiger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Landmark",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

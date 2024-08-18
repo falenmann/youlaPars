@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Ora",
+    "Models": [
+      {
+        "Model": "03",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "03 GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ballet Cat",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Good Cat",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lightning Cat",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

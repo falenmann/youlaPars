@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Maxus",
+    "Models": [
+      {
+        "Model": "D90 Pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G20",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G50",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G90",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T90",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "Make": "Mini",
+    "Models": [
+      {
+        "Model": "Cabrio",
+        "Generations": [
+          "F57 [рестайлинг]",
+          "R52",
+          "R57",
+          "R57 [рестайлинг]",
+          "1 поколение",
+          "F57"
+        ]
+      },
+      {
+        "Model": "Clubman",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Cooper",
+        "Generations": [
+          "F56 [рестайлинг]",
+          "R50",
+          "R50 [рестайлинг]",
+          "R56",
+          "R56 [рестайлинг]",
+          "F56"
+        ]
+      },
+      {
+        "Model": "Cooper S",
+        "Generations": [
+          "F56",
+          "F56 [рестайлинг]",
+          "R56 [рестайлинг]",
+          "R53 [рестайлинг]",
+          "R56",
+          "R53"
+        ]
+      },
+      {
+        "Model": "Cooper SE",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Countryman",
+        "Generations": [
+          "F60",
+          "R60"
+        ]
+      },
+      {
+        "Model": "Coupe",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "John Cooper Works",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "One",
+        "Generations": [
+          "F56",
+          "F56 [рестайлинг]",
+          "R56",
+          "R50",
+          "R50 [рестайлинг]",
+          "R56 [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Paceman",
+        "Generations": [
+          "R61"
+        ]
+      },
+      {
+        "Model": "Roadster",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

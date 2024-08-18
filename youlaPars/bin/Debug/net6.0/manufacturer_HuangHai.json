@@ -1,0 +1,26 @@
+[
+  {
+    "Make": "HuangHai",
+    "Models": [
+      {
+        "Model": "Antelope",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Landscape",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Plutus",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

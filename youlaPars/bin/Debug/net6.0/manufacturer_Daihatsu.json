@@ -1,0 +1,283 @@
+[
+  {
+    "Make": "Daihatsu",
+    "Models": [
+      {
+        "Model": "Altis",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Applause",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Atrai",
+        "Generations": [
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Be-go",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Boon",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Boon Luminas",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cast",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Charade",
+        "Generations": [
+          "4 поколение",
+          "4 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Coo",
+        "Generations": [
+          "J10"
+        ]
+      },
+      {
+        "Model": "Copen",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cuore",
+        "Generations": [
+          "L200",
+          "L500",
+          "L700",
+          "L250"
+        ]
+      },
+      {
+        "Model": "Delta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Esse",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Extol",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Feroza",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Gran Move",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Hijet",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Leeza",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MAX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Materia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mebius",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mira",
+        "Generations": [
+          "L250",
+          "L70",
+          "L55",
+          "L700",
+          "L275",
+          "L500",
+          "L200"
+        ]
+      },
+      {
+        "Model": "Mira Tocot",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mira e:S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Move",
+        "Generations": [
+          "4 поколение",
+          "Gran Move [рестайлинг]",
+          "Latte",
+          "L900",
+          "Gran Move"
+        ]
+      },
+      {
+        "Model": "Naked",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Opti",
+        "Generations": [
+          "L3",
+          "L8"
+        ]
+      },
+      {
+        "Model": "Pyzar",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Rocky",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Rugger",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sirion",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Sonica",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Storia",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Taft",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tanto",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Terios",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Thor",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Trevis",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Wake",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xenia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "YRV",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

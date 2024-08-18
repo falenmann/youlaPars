@@ -1,0 +1,62 @@
+[
+  {
+    "Make": "Foton",
+    "Models": [
+      {
+        "Model": "Alpha Van",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Gratour",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Midi",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sauvana",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tunland",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Tunland G9 (General G9)",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tunland V7 (Mars 7)",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tunland V9 (Mars 9)",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "View",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

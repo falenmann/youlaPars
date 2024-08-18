@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Voyah",
+    "Models": [
+      {
+        "Model": "Dream",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Free",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Passion",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

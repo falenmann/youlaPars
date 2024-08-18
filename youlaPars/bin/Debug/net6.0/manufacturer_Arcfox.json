@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Arcfox",
+    "Models": [
+      {
+        "Model": "Alpha-S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Alpha-T",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

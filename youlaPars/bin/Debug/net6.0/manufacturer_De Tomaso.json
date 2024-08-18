@@ -1,0 +1,26 @@
+[
+  {
+    "Make": "De Tomaso",
+    "Models": [
+      {
+        "Model": "Bigua",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Guara",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mangusta",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Make": "Derways",
+    "Models": [
+      {
+        "Model": "Antelope",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aurora",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Cowboy",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Land Crown",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Plutus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Saladin",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Shuttle",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

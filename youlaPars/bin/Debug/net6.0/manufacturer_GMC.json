@@ -1,0 +1,88 @@
+[
+  {
+    "Make": "GMC",
+    "Models": [
+      {
+        "Model": "Acadia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Canyon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Envoy",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Hummer EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Jimmy",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Safari",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Savana",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Sierra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sonoma",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Suburban",
+        "Generations": [
+          "9 поколение"
+        ]
+      },
+      {
+        "Model": "Terrain",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vandura",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Yukon",
+        "Generations": [
+          "GMT800",
+          "GMT900"
+        ]
+      }
+    ]
+  }
+]

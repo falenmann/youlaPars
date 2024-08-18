@@ -1,0 +1,177 @@
+[
+  {
+    "Make": "SEAT",
+    "Models": [
+      {
+        "Model": "Alhambra",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Altea",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Altea Freetrack",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Altea XL",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Arona",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Arosa",
+        "Generations": [
+          "6H"
+        ]
+      },
+      {
+        "Model": "Ateca",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Cordoba",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Exeo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fura",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ibiza",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение",
+          "3 поколение [рестайлинг]",
+          "4 поколение",
+          "4 поколение [2-й рестайлинг]",
+          "4 поколение [рестайлинг]",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Ibiza Cupra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Inca",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Leon",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Leon Cupra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Leon FR",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Leon X-PERIENCE",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Malaga",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Marbella",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mii",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Panda",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ritmo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ronda",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tarraco",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Toledo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Talbot",
+    "Models": [
+      {
+        "Model": "1510",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Horizon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Rancho",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Solara",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tagora",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

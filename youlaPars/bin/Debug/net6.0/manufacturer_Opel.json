@@ -1,0 +1,397 @@
+[
+  {
+    "Make": "Opel",
+    "Models": [
+      {
+        "Model": "Adam",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Admiral",
+        "Generations": [
+          "1 поколение",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "Model": "Agila",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Ampera",
+        "Generations": [
+          "1 поколение",
+          "Ampera-e"
+        ]
+      },
+      {
+        "Model": "Antara",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Arena",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ascona",
+        "Generations": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "Model": "Astra",
+        "Generations": [
+          "F [рестайлинг]",
+          "H",
+          "K",
+          "J",
+          "F",
+          "G",
+          "J [рестайлинг]",
+          "Family/H [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Astra GTC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Astra OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Calibra",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Campo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Cascada",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Combo",
+        "Generations": [
+          "C",
+          "D",
+          "PCMA",
+          "B",
+          "C [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Combo Life",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Commodore",
+        "Generations": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "Model": "Corsa",
+        "Generations": [
+          "A",
+          "A [рестайлинг]",
+          "B",
+          "C",
+          "C [рестайлинг]",
+          "D",
+          "D [рестайлинг]",
+          "A [2-й рестайлинг]",
+          "B [рестайлинг]",
+          "E"
+        ]
+      },
+      {
+        "Model": "Corsa OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Crossland X",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Diplomat",
+        "Generations": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "Model": "Frontera",
+        "Generations": [
+          "A",
+          "B",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "GT",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Grandland X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Insignia",
+        "Generations": [
+          "A",
+          "A [рестайлинг]",
+          "B"
+        ]
+      },
+      {
+        "Model": "Insignia OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kadett",
+        "Generations": [
+          "A",
+          "B",
+          "C",
+          "C [рестайлинг]",
+          "D",
+          "E",
+          "E [рестайлинг]",
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Kapitan",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение",
+          "A",
+          "B",
+          "P1",
+          "P2"
+        ]
+      },
+      {
+        "Model": "Karl",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Manta",
+        "Generations": [
+          "A",
+          "B",
+          "B [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Meriva",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Meriva OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mokka",
+        "Generations": [
+          "1 поколение",
+          "X [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Monterey",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Monza",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "A1",
+          "A2"
+        ]
+      },
+      {
+        "Model": "Omega",
+        "Generations": [
+          "A",
+          "A [рестайлинг]",
+          "B",
+          "B [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Rekord",
+        "Generations": [
+          "A",
+          "B",
+          "C",
+          "E",
+          "P1",
+          "D",
+          "E [рестайлинг]",
+          "P2"
+        ]
+      },
+      {
+        "Model": "Senator",
+        "Generations": [
+          "2 поколение",
+          "A",
+          "A [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Signum",
+        "Generations": [
+          "C [рестайлинг]",
+          "C"
+        ]
+      },
+      {
+        "Model": "Sintra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Speedster",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Super 6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tigra",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Vectra",
+        "Generations": [
+          "A",
+          "B",
+          "B [рестайлинг]",
+          "C",
+          "C [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Vectra OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vita",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vivaro",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "Model": "Zafira",
+        "Generations": [
+          "A [рестайлинг]",
+          "B",
+          "C",
+          "C [рестайлинг]",
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "A",
+          "B",
+          "Family [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Zafira Life",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Zafira OPC",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

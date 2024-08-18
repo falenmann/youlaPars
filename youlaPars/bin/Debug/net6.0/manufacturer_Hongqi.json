@@ -1,0 +1,67 @@
+[
+  {
+    "Make": "Hongqi",
+    "Models": [
+      {
+        "Model": "E-HS3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "E-HS9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "E-QM5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "H9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "HQ9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "HS5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "HS7",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

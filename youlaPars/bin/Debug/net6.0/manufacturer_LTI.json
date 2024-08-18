@@ -1,0 +1,14 @@
+[
+  {
+    "Make": "LTI",
+    "Models": [
+      {
+        "Model": "TX",
+        "Generations": [
+          "TX2",
+          "TX1"
+        ]
+      }
+    ]
+  }
+]

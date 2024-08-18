@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Eagle",
+    "Models": [
+      {
+        "Model": "Premier",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Summit",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Talon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Vision",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

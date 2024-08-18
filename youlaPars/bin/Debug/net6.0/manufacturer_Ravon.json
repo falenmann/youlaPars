@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Ravon",
+    "Models": [
+      {
+        "Model": "Gentra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Matiz",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Nexia",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "R2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "R4",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "Make": "Proton",
+    "Models": [
+      {
+        "Model": "Juara",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Perdana",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Persona 300 Compact",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Persona 400",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Saga",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Saloon",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Satria",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Waja",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

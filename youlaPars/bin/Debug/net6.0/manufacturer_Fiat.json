@@ -1,0 +1,319 @@
+[
+  {
+    "Make": "Fiat",
+    "Models": [
+      {
+        "Model": "124",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "124 Spider",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "125",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "126",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "127",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "128",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "130",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "131",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "132",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "500",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "500L",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "500X",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "600",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Albea",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Argenta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Barchetta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Brava",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bravo",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Cinquecento",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Coupe",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Croma",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Doblo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Duna",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fiorino",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Freemont",
+        "Generations": [
+          "345"
+        ]
+      },
+      {
+        "Model": "Fullback",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Idea",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Linea",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Marea",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Multipla",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Palio",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Panda",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Punto",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]",
+          "3 поколение",
+          "3 поколение [2-й рестайлинг]",
+          "3 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Qubo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Regata",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ritmo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Scudo",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Sedici",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Seicento",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Siena",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Stilo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Strada",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Talento",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tempra",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Tipo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ulysse",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Uno",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X1/9",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

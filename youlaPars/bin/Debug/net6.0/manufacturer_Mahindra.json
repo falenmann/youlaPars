@@ -1,0 +1,53 @@
+[
+  {
+    "Make": "Mahindra",
+    "Models": [
+      {
+        "Model": "Armada",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]",
+          "2 поколение",
+          "CJ7"
+        ]
+      },
+      {
+        "Model": "Bolero",
+        "Generations": [
+          "CJ7"
+        ]
+      },
+      {
+        "Model": "Commander",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MM 540/550",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MM 775",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Marshal",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Scorpio",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

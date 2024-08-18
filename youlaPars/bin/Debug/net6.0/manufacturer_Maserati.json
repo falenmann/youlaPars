@@ -1,0 +1,148 @@
+[
+  {
+    "Make": "Maserati",
+    "Models": [
+      {
+        "Model": "228",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "3200 GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "420",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "4200 GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Biturbo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Bora",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Coupe",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ghibli",
+        "Generations": [
+          "2 поколение",
+          "3 поколение",
+          "3 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "GranCabrio",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GranSport",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GranTurismo",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Grecale",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Indy",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Karif",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Khamsin",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kyalami",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Levante",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Merak",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Quattroporte",
+        "Generations": [
+          "4 поколение",
+          "5 поколение",
+          "5 поколение [рестайлинг]",
+          "6 поколение",
+          "6 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Royale",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Shamal",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Spyder",
+        "Generations": [
+          "1 поколение",
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

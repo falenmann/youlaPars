@@ -1,0 +1,56 @@
+[
+  {
+    "Make": "Samsung",
+    "Models": [
+      {
+        "Model": "QM3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "QM5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "QM6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SM3",
+        "Generations": [
+          "N17"
+        ]
+      },
+      {
+        "Model": "SM5",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "SM6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SM7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "XM3",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

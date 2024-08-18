@@ -1,0 +1,37 @@
+[
+  {
+    "Make": "Zotye",
+    "Models": [
+      {
+        "Model": "Coupa",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SR9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T600",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Z100",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Z300",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

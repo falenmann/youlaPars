@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Zeekr",
+    "Models": [
+      {
+        "Model": "001",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "007",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "009",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

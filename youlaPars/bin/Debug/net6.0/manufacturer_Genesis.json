@@ -1,0 +1,44 @@
+[
+  {
+    "Make": "Genesis",
+    "Models": [
+      {
+        "Model": "G70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G80",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "G90",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "GV60",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GV70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GV80",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

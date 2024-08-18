@@ -1,0 +1,182 @@
+[
+  {
+    "Make": "Cadillac",
+    "Models": [
+      {
+        "Model": "ATS",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Allante",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "BLS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Brougham",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CT4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CT5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CT6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "CTS",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "CTS-V",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Catera",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "DTS",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "De Ville",
+        "Generations": [
+          "11 поколение",
+          "10 поколение"
+        ]
+      },
+      {
+        "Model": "ELR",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Eldorado",
+        "Generations": [
+          "11 поколение"
+        ]
+      },
+      {
+        "Model": "Escalade",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "3 поколение",
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "Escalade-V",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Fleetwood",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Lyriq",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "SRX",
+        "Generations": [
+          "1 поколение",
+          "2 поколение",
+          "2 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "STS",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "Series 62",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Seville",
+        "Generations": [
+          "4 поколение",
+          "5 поколение"
+        ]
+      },
+      {
+        "Model": "XLR",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "XT4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "XT5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "XT6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "XTS",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

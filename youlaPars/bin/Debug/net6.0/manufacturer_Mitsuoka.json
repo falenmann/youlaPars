@@ -1,0 +1,32 @@
+[
+  {
+    "Make": "Mitsuoka",
+    "Models": [
+      {
+        "Model": "Galue",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Le-Seyde",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Ryoga",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Viewt",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

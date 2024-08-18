@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Spyker",
+    "Models": [
+      {
+        "Model": "C12",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "C8",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "Make": "Holden",
+    "Models": [
+      {
+        "Model": "Apollo",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Astra",
+        "Generations": [
+          "4 поколение"
+        ]
+      },
+      {
+        "Model": "Barina",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Calais",
+        "Generations": [
+          "2 поколение",
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Caprice",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Commodore",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Cruze",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Frontera",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Jackaroo",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Monaro",
+        "Generations": [
+          "3 поколение"
+        ]
+      },
+      {
+        "Model": "Statesman",
+        "Generations": [
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Suburban",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "UTE",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "Vectra",
+        "Generations": [
+          "B"
+        ]
+      },
+      {
+        "Model": "Zafira",
+        "Generations": [
+          "B"
+        ]
+      }
+    ]
+  }
+]

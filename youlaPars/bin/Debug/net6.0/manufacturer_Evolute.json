@@ -1,0 +1,43 @@
+[
+  {
+    "Make": "Evolute",
+    "Models": [
+      {
+        "Model": "i-JET",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-JOY",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-PRO",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-SKY",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-SPACE",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "i-VAN",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

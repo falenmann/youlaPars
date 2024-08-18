@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "KYC",
+    "Models": [
+      {
+        "Model": "F3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "V3",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

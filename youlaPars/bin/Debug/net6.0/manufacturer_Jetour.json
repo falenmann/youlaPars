@@ -1,0 +1,55 @@
+[
+  {
+    "Make": "Jetour",
+    "Models": [
+      {
+        "Model": "Dashing",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Traveller",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X70",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X70 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X70S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X90",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X90 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "X95",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "Make": "Wuling",
+    "Models": [
+      {
+        "Model": "Binguo",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Hongguang S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Hongguang V",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Jiachen",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Mini EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Star Asta",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sunshine",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Victory",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xingchi",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xingguang",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Xingwang",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Make": "Rivian",
+    "Models": [
+      {
+        "Model": "R1S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "R1T",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

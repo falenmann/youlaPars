@@ -1,0 +1,145 @@
+[
+  {
+    "Make": "JAC",
+    "Models": [
+      {
+        "Model": "A5 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "J2",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "J5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "J7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "JS3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "JS4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "JS6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Refine",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Rein",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S3",
+        "Generations": [
+          "1 поколение",
+          "1 поколение [2-й рестайлинг]",
+          "1 поколение [рестайлинг]"
+        ]
+      },
+      {
+        "Model": "S4",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "S5",
+        "Generations": [
+          "1 поколение",
+          "1 поколение",
+          "2 поколение",
+          "8T [рестайлинг]",
+          "8T"
+        ]
+      },
+      {
+        "Model": "S7",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sehol X6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sehol X8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sehol X8 Plus",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T8 Pro",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T9",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "iEV7S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "iEVS4",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

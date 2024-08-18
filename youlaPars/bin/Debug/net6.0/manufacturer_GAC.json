@@ -1,0 +1,80 @@
+[
+  {
+    "Make": "GAC",
+    "Models": [
+      {
+        "Model": "Aion Hyper GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aion LX",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aion S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aion V",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Aion Y",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GE3",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GM6",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GN8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GS5",
+        "Generations": [
+          "1 поколение",
+          "2 поколение"
+        ]
+      },
+      {
+        "Model": "GS8",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Way V1",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "iA5",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

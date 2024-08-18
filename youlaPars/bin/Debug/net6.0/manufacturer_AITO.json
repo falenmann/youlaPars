@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "AITO",
+    "Models": [
+      {
+        "Model": "M5",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "M5 EV",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "M7",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

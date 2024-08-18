@@ -1,0 +1,55 @@
+[
+  {
+    "Make": "McLaren",
+    "Models": [
+      {
+        "Model": "570S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "600LT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "650S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "720S",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "F1",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "GT",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "MP4-12C",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "P1",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

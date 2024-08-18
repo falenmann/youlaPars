@@ -1,0 +1,31 @@
+[
+  {
+    "Make": "Tofas",
+    "Models": [
+      {
+        "Model": "Dogan",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Kartal",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Sahin",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "Serce",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]

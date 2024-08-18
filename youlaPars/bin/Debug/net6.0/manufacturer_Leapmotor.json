@@ -1,0 +1,25 @@
+[
+  {
+    "Make": "Leapmotor",
+    "Models": [
+      {
+        "Model": "C01",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "C11",
+        "Generations": [
+          "1 поколение"
+        ]
+      },
+      {
+        "Model": "T03",
+        "Generations": [
+          "1 поколение"
+        ]
+      }
+    ]
+  }
+]
